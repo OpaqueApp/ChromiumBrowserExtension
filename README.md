@@ -32,31 +32,31 @@ If you have any issues or would like to request new features, please let us know
 
 Shows the switches used to enable blurring and pattern matching options.
 
-![Main](C:\Users\paull\OneDrive\Pictures\Typora\README\Main.png)
+![Main](./Images/Main.png)
 
 ##### Side Menu of Opaque App 
 
 Shows the links to our website, contact, and version.
 
-![SideMenu](C:\Users\paull\OneDrive\Pictures\Typora\README\SideMenu.png)
+![SideMenu](./Images/SideMenu.png)
 
 ##### Example of using RegEx to Blur
 
 Shows using RegEx to pattern match and blur text and values on example website.
 
-![RegEx](C:\Users\paull\OneDrive\Pictures\Typora\README\RegEx.png)
+![RegEx](./Images/RegEx.png)
 
 ##### Example of using Plain Text to Blur
 
 Shows using Plain text to pattern match and blur text and values on example website.
 
-![PlainText](C:\Users\paull\OneDrive\Pictures\Typora\README\PlainText.png)
+![PlainText](./Images/PlainText.png)
 
 ##### Example of using Quick Selection with GUID to Blur
 
 Shows using Quick Select with GUID to pattern match and blur GUID values.
 
-![GUID](C:\Users\paull\OneDrive\Pictures\Typora\README\GUID.png)
+![GUID](./Images/GUID.png)
 
 #### Installation
 
