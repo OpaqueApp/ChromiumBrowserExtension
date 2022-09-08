@@ -12,7 +12,7 @@ Broad set of options to blur text and values using explicit terms or pattern mat
 
 ------
 
-> **Opaque is the 1st browser extension to use RegEx for pattern matching. **
+> **Opaque is the 1st browser extension to use RegEx for pattern matching.**
 >
 > **This opens the door to safe guard sensitive data while sharing your screen during a conference call or recording videos!**
 
