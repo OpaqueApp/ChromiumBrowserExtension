@@ -86,4 +86,4 @@ Shows using Quick Select with GUID to pattern match and blur GUID values.
 - Select Extension button on menu bar
 - Select eye icon to make Opaque App visible on menu bar
 
-![VisibleExtension](C:\Users\paull\OneDrive\Pictures\Typora\README\VisibleExtension.png)
+![VisibleExtension](./Images/VisibleExtension.png)
