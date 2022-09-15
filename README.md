@@ -76,7 +76,7 @@ Shows using Quick Select with GUID to pattern match and blur GUID values.
 
 ##### Developer Mode
 
-- Download ![OpaqueAppExtension-LatestVersion.zip](./OpaqueAppExtension-LatestVersion.zip)
+- Download [OpaqueAppExtension-LatestVersion.zip](./OpaqueAppExtension-LatestVersion.zip)
 - Extract locally
 - Open Edge or Chrome Extension settings
 - Select Developer Mode
