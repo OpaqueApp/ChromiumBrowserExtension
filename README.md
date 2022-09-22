@@ -3,6 +3,32 @@ Chromium-based browser extension, supporting Microsoft Edge and Google Chrome.
 
 Safely blur sensitive text and values. 
 
+## Installation
+
+### Edge Extension Store
+
+- [Microsoft Edge Add-on - Opaque](https://microsoftedge.microsoft.com/addons/detail/opaque/bkemibmknilgdabdljohbheedpcfoiom)
+
+### Chrome Web Store
+
+- [Chrome Web Store - Opaque](https://chrome.google.com/webstore/detail/opaque/fkmddlioggaohebmgmmhjfapibidoicd)
+
+### Developer Mode
+
+- Download [OpaqueAppExtension-LatestVersion.zip](https://github.com/OpaqueApp/ChromiumBrowserExtension/raw/main/OpaqueAppExtension-LatestVersion.zip)
+- Extract locally
+- Open Edge or Chrome Extension settings
+- Select Developer Mode
+- Select "Load unpacked" button
+- Navigate to where you extracted the zip archive
+- Select the folder
+- Select Extension button on menu bar
+- Select eye icon to make Opaque App visible on menu bar
+
+![VisibleExtension](./Images/VisibleExtension.png)
+
+## Summary
+
 Broad set of options to blur text and values using explicit terms or pattern matching:
 
 - Plain text
@@ -28,57 +54,33 @@ Great for screen sharing and screen captures!
 
 If you have any issues or would like to request new features, please let us know - [Support and Feature Requests](https://github.com/OpaqueApp/ChromiumBrowserExtension/issues)
 
-#### Installation
+### Screenshots
 
-##### Edge Extension Store
-
-- [Microsoft Edge Add-on - Opaque](https://microsoftedge.microsoft.com/addons/detail/opaque/bkemibmknilgdabdljohbheedpcfoiom)
-
-##### Chrome Web Store
-
-- [Chrome Web Store - Opaque](https://chrome.google.com/webstore/detail/opaque/fkmddlioggaohebmgmmhjfapibidoicd)
-
-##### Developer Mode
-
-- Download [OpaqueAppExtension-LatestVersion.zip](https://github.com/OpaqueApp/ChromiumBrowserExtension/raw/main/OpaqueAppExtension-LatestVersion.zip)
-- Extract locally
-- Open Edge or Chrome Extension settings
-- Select Developer Mode
-- Select "Load unpacked" button
-- Navigate to where you extracted the zip archive
-- Select the folder
-- Select Extension button on menu bar
-- Select eye icon to make Opaque App visible on menu bar
-
-![VisibleExtension](./Images/VisibleExtension.png)
-
-#### Screenshots
-
-##### Main page of Opaque App 
+#### Main page of Opaque App 
 
 Shows the switches used to enable blurring and pattern matching options.
 
 ![Main](./Images/Main.png)
 
-##### Side Menu of Opaque App 
+#### Side Menu of Opaque App 
 
 Shows the links to our website, contact, and version.
 
 ![SideMenu](./Images/SideMenu.png)
 
-##### Example of using RegEx to Blur
+#### Example of using RegEx to Blur
 
 Shows using RegEx to pattern match and blur text and values on example website.
 
 ![RegEx](./Images/RegEx.png)
 
-##### Example of using Plain Text to Blur
+#### Example of using Plain Text to Blur
 
 Shows using Plain text to pattern match and blur text and values on example website.
 
 ![PlainText](./Images/PlainText.png)
 
-##### Example of using Quick Selection with GUID to Blur
+#### Example of using Quick Selection with GUID to Blur
 
 Shows using Quick Select with GUID to pattern match and blur GUID values.
 
