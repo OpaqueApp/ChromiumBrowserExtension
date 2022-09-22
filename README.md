@@ -28,6 +28,30 @@ Great for screen sharing and screen captures!
 
 If you have any issues or would like to request new features, please let us know - [Support and Feature Requests](https://github.com/OpaqueApp/ChromiumBrowserExtension/issues)
 
+#### Installation
+
+##### Edge Extension Store
+
+- [Microsoft Edge Add-on - Opaque](https://microsoftedge.microsoft.com/addons/detail/opaque/bkemibmknilgdabdljohbheedpcfoiom)
+
+##### Chrome Web Store
+
+- [Chrome Web Store - Opaque](https://chrome.google.com/webstore/detail/opaque/fkmddlioggaohebmgmmhjfapibidoicd)
+
+##### Developer Mode
+
+- Download [OpaqueAppExtension-LatestVersion.zip](https://github.com/OpaqueApp/ChromiumBrowserExtension/raw/main/OpaqueAppExtension-LatestVersion.zip)
+- Extract locally
+- Open Edge or Chrome Extension settings
+- Select Developer Mode
+- Select "Load unpacked" button
+- Navigate to where you extracted the zip archive
+- Select the folder
+- Select Extension button on menu bar
+- Select eye icon to make Opaque App visible on menu bar
+
+![VisibleExtension](./Images/VisibleExtension.png)
+
 #### Screenshots
 
 ##### Main page of Opaque App 
@@ -59,27 +83,3 @@ Shows using Plain text to pattern match and blur text and values on example webs
 Shows using Quick Select with GUID to pattern match and blur GUID values.
 
 ![GUID](./Images/GUID.png)
-
-#### Installation
-
-##### Edge Extension Store
-
-- [Microsoft Edge Add-on - Opaque](https://microsoftedge.microsoft.com/addons/detail/opaque/bkemibmknilgdabdljohbheedpcfoiom)
-
-##### Chrome Web Store
-
-- [Chrome Web Store - Opaque](https://chrome.google.com/webstore/detail/opaque/fkmddlioggaohebmgmmhjfapibidoicd)
-
-##### Developer Mode
-
-- Download [OpaqueAppExtension-LatestVersion.zip](https://github.com/OpaqueApp/ChromiumBrowserExtension/raw/main/OpaqueAppExtension-LatestVersion.zip)
-- Extract locally
-- Open Edge or Chrome Extension settings
-- Select Developer Mode
-- Select "Load unpacked" button
-- Navigate to where you extracted the zip archive
-- Select the folder
-- Select Extension button on menu bar
-- Select eye icon to make Opaque App visible on menu bar
-
-![VisibleExtension](./Images/VisibleExtension.png)
