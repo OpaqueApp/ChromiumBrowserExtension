@@ -54,33 +54,31 @@ Great for screen sharing and screen captures!
 
 If you have any issues or would like to request new features, please let us know - [Support and Feature Requests](https://github.com/OpaqueApp/ChromiumBrowserExtension/issues)
 
-### Screenshots
-
-#### Main page of Opaque App 
+### Main page of Opaque App 
 
 Shows the switches used to enable blurring and pattern matching options.
 
 ![Main](./Images/Main.png)
 
-#### Side Menu of Opaque App 
+### Side Menu of Opaque App 
 
 Shows the links to our website, contact, and version.
 
 ![SideMenu](./Images/SideMenu.png)
 
-#### Example of using RegEx to Blur
+### Example of using RegEx to Blur
 
 Shows using RegEx to pattern match and blur text and values on example website.
 
 ![RegEx](./Images/RegEx.png)
 
-#### Example of using Plain Text to Blur
+### Example of using Plain Text to Blur
 
 Shows using Plain text to pattern match and blur text and values on example website.
 
 ![PlainText](./Images/PlainText.png)
 
-#### Example of using Quick Selection with GUID to Blur
+### Example of using Quick Selection with GUID to Blur
 
 Shows using Quick Select with GUID to pattern match and blur GUID values.
 
