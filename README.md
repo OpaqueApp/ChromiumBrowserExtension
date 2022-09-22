@@ -64,11 +64,11 @@ Shows using Quick Select with GUID to pattern match and blur GUID values.
 
 ##### Edge Extension Store
 
-- [Microsoft Edge Addon - Opaque](https://microsoftedge.microsoft.com/addons/detail/opaque/bkemibmknilgdabdljohbheedpcfoiom)
+- [Microsoft Edge Add-on - Opaque](https://microsoftedge.microsoft.com/addons/detail/opaque/bkemibmknilgdabdljohbheedpcfoiom)
 
 ##### Chrome Web Store
 
-- [Microsoft Edge Addon - Opaque](https://chrome.google.com/webstore/detail/opaque/fkmddlioggaohebmgmmhjfapibidoicd)
+- [Chrome Web Store - Opaque](https://chrome.google.com/webstore/detail/opaque/fkmddlioggaohebmgmmhjfapibidoicd)
 
 ##### Developer Mode
 
