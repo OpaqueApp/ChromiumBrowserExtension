@@ -1,4 +1,4 @@
-# Opaque Browser Extension
+# Opaque Chromium Browser Extension
 Chromium-based browser extension, supporting Microsoft Edge and Google Chrome.
 
 Safely blur sensitive text and values. 
@@ -15,7 +15,7 @@ Safely blur sensitive text and values.
 
 ### Developer Mode
 
-- Download [OpaqueAppExtension-LatestVersion.zip](https://github.com/OpaqueApp/ChromiumBrowserExtension/raw/main/OpaqueAppExtension-LatestVersion.zip)
+- Download [Opaque-Chromium-CurrentVersion.zip](https://github.com/OpaqueApp/ChromiumBrowserExtension/raw/main/Opaque-Chromium-CurrentVersion.zip)
 - Extract locally
 - Open Edge or Chrome Extension settings
 - Select Developer Mode
