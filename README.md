@@ -7,13 +7,19 @@ Safely blur sensitive text and values.
 
 ### Edge Extension Store
 
+This installation method provides automatic updates.
+
 - [Microsoft Edge Add-on - Opaque](https://microsoftedge.microsoft.com/addons/detail/opaque/bkemibmknilgdabdljohbheedpcfoiom)
 
 ### Chrome Web Store
 
+This installation method provides automatic updates.
+
 - [Chrome Web Store - Opaque](https://chrome.google.com/webstore/detail/opaque/fkmddlioggaohebmgmmhjfapibidoicd)
 
 ### Developer Mode
+
+This installation method uses the same extension submitted to the Edge and Chrome stores but it will not receive automatic updates.
 
 - Download [Opaque-Chromium-CurrentVersion.zip](https://github.com/OpaqueApp/ChromiumBrowserExtension/raw/main/Opaque-Chromium-CurrentVersion.zip)
 - Extract locally
