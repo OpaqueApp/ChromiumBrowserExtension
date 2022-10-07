@@ -3,6 +3,8 @@ Chromium-based browser extension, supporting Microsoft Edge and Google Chrome.
 
 Safely blur sensitive text and values. 
 
+![Main](C:\Users\paull\OneDrive\Pictures\Typora\README\RegExMarque.png)
+
 ## Installation
 
 ### Edge Extension Store
@@ -64,13 +66,7 @@ If you have any issues or would like to request new features, please let us know
 
 Shows the switches used to enable blurring and pattern matching options.
 
-![Main](./Images/Main.png)
-
-### Side Menu of Opaque App 
-
-Shows the links to our website, contact, and version.
-
-![SideMenu](./Images/SideMenu.png)
+![Main](./Images/Intro.png)
 
 ### Example of using RegEx to Blur
 
@@ -88,4 +84,10 @@ Shows using Plain text to pattern match and blur text and values on example webs
 
 Shows using Quick Select with GUID to pattern match and blur GUID values.
 
-![GUID](./Images/GUID.png)
+![GUID](./Images/QuickSelect.png)
+
+### Example of using CSS Properties to Blur
+
+Shows using CSS properties to pattern match and blur values.
+
+![GUID](./Images/CSS.png)
